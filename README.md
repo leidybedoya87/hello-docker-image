@@ -1,2 +1,1 @@
-# hello-docker-image
-hello-docker-image
+1
